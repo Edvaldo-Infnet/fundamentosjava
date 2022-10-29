@@ -8,5 +8,6 @@ public class Primeiro {
 		int idade = Integer.valueOf(args[2]);
 
 		System.out.println(nome + " " + sobrenome + " " + idade);
+		System.out.println(nome + " " + sobrenome + " " + idade);
 	}
 }
